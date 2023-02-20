@@ -1,6 +1,6 @@
 Mail sender for Gmail
 
-Important: Use this program as an alternative if Gmail admin access is not available to allow multi send feature.
+Important: Use this program as an alternative if Gmail admin access is not available to allow multi send feature. Please rad TODO at the end to complete the program.
 
 Please follow this link to setup the App password for Gmail and replace in line 20 and 21 of SendMail.java:
 ````
